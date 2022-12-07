@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap");
+
+@layer base {
+  body {
+    @apply font-[Raleway];
+  }
+  li {
+    @apply px-4;
+    @apply cursor-pointer;
+  }
+}
+
+.font-PermanentMarker-Regular {
+  font-family: font1;
+}
+
+.App {
+  background-color: black;
+}
+
+.content-div {
+  /*Work Card*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 258px;
+}
+
+.home-internal-img {
+  /*Home Background*/
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 1), transparent 30%),
+    linear-gradient(90deg, rgba(0, 0, 0, 0.3), transparent 10%),
+    url("./assets/img/nebula-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+}
+
+.right-vignette {
+  background: linear-gradient(77deg, rgba(0, 0, 0, 0.6), transparent 85%);
+  bottom: 0;
+  left: 0;
+  opacity: 1;
+  position: absolute;
+  right: 26.09%;
+  top: 0;
+  transition: opacity 0.5s;
+}
