@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa7aa62b.css",
+    "main.js": "/static/js/main.8038e24a.js",
+    "static/media/nebula-bg.png": "/static/media/nebula-bg.ad3eac20a08ef7221f6a.png",
+    "static/media/react-4.png": "/static/media/react-4.b6c2cd1d98d22a13c3a9.png",
+    "static/media/react-1.png": "/static/media/react-1.2ab4d64b0004caac52c5.png",
+    "static/media/react-2.png": "/static/media/react-2.9270aba0f0b52163b1d0.png",
+    "static/media/tensorflow.png": "/static/media/tensorflow.2e600df8bf7dc40e2886.png",
+    "static/media/react-3.png": "/static/media/react-3.c2fa07bdc8bd218c5404.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/react-5.png": "/static/media/react-5.47956d56b43015dfa72a.png",
+    "static/media/django.png": "/static/media/django.4c399895f677cd3bfbc8.png",
+    "static/media/pytorch.png": "/static/media/pytorch.e233fc48a48fde996610.png",
+    "static/media/opencv.png": "/static/media/opencv.d86ed828fca79699428f.png",
+    "static/media/GCP.png": "/static/media/GCP.d43943e87bf29e48ad8b.png",
+    "static/media/mySQL.png": "/static/media/mySQL.5bf2b384c4ccea98170d.png",
+    "index.html": "/index.html",
+    "main.fa7aa62b.css.map": "/static/css/main.fa7aa62b.css.map",
+    "main.8038e24a.js.map": "/static/js/main.8038e24a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7aa62b.css",
+    "static/js/main.8038e24a.js"
+  ]
+}
